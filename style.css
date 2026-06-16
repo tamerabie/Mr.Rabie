@@ -47,3 +47,11 @@ footer {
 a {
   color: gold;
 }
+
+.daily-photo {
+  max-width: 80%;
+  height: auto;
+  border: 3px solid gold;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
